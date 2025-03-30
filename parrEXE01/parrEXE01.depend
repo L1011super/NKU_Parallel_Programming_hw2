@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742979575 source:e:\codeblockssrc\codess\01\parrexe01\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
