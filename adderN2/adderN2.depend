@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742998074 source:e:\codeblockssrc\codess\01\addern2\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
